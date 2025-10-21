@@ -1,1 +1,3 @@
-console.log("Version 1");
+function printTest() {
+    console.log("Version 1");
+}
